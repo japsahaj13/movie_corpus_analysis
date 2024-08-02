@@ -4,7 +4,7 @@ Abstract:
 This project allowed me to refine my data analysis skills and explore the power of natural language processing (NLP) by diving into movie data. I applied NLP techniques like sentiment analysis and topic modeling to analyze plot summaries, experimented with linear regression to understand the relationship between movie genres and box office revenue, and built a Random Forest classifier to predict movie runtime categories. This hands-on experience with data manipulation, analysis, and visualization has made me a more adept data analyst.
 
 Objectives and Solutions
-Objective 1: Understanding Themes and Sentiment in Movie Plot Summaries
+Objective 1: Understanding Themes and Sentiment in Movie Plot Summaries.
 Objective: Utilize NLP techniques to analyze movie plot summaries for common themes and sentiment patterns, and group them based on content similarities.
 
 Methods:
