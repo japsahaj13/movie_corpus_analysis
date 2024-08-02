@@ -31,6 +31,7 @@ Identifying sentiment patterns to understand the emotional tone of movie narrati
 
 
 Objective 2: Identifying Revenue-Generating Movie Genres
+
 Objective: Determine which movie genres are more likely to generate higher box office revenue.
 
 Methods:
@@ -44,7 +45,8 @@ Identifying genres with the strongest positive and negative correlations with bo
 Gaining insights into which genres are more likely to result in higher or lower box office earnings.
 Example: The genre "Revenge" shows a significant positive correlation with box office revenue, suggesting that movies in this genre are more likely to be financially successful.
 
-Objective 3: Classifying Movies by Runtime Categories
+Objective 3: Classifying Movies by Runtime Categories.
+
 Objective: Develop a model to classify movies into different runtime categories (short, medium, long) based on genres, box office revenue, and release year.
 
 Methods:
